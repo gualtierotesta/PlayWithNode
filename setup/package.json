@@ -1,0 +1,14 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "Project setup example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gualtiero Testa",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
